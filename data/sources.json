@@ -1,0 +1,180 @@
+[
+  {
+    "country": "Mexico",
+    "region": "LATAM",
+    "name": "Motofichas México",
+    "baseUrl": "https://www.motofichas.com.mx",
+    "domains": [
+      "motofichas.com.mx"
+    ],
+    "sitemaps": [
+      "https://www.motofichas.com.mx/sitemap.xml"
+    ],
+    "language": "es"
+  },
+  {
+    "country": "Mexico",
+    "region": "LATAM",
+    "name": "Mexico Business News — Automotive",
+    "baseUrl": "https://mexicobusiness.news/automotive",
+    "domains": [
+      "mexicobusiness.news"
+    ],
+    "sitemaps": [
+      "https://mexicobusiness.news/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Argentina",
+    "region": "LATAM",
+    "name": "La Nación — Autos",
+    "baseUrl": "https://www.lanacion.com.ar/autos",
+    "domains": [
+      "lanacion.com.ar"
+    ],
+    "sitemaps": [
+      "https://www.lanacion.com.ar/sitemap.xml"
+    ],
+    "language": "es"
+  },
+  {
+    "country": "Argentina",
+    "region": "LATAM",
+    "name": "Motos Argentinas",
+    "baseUrl": "https://motosargentinas.com.ar",
+    "domains": [
+      "motosargentinas.com.ar"
+    ],
+    "sitemaps": [
+      "https://motosargentinas.com.ar/sitemap_index.xml",
+      "https://motosargentinas.com.ar/sitemap.xml"
+    ],
+    "language": "es"
+  },
+  {
+    "country": "Colombia",
+    "region": "LATAM",
+    "name": "Publimotos",
+    "baseUrl": "https://publimotos.com",
+    "domains": [
+      "publimotos.com"
+    ],
+    "sitemaps": [
+      "https://publimotos.com/sitemap_index.xml",
+      "https://publimotos.com/sitemap.xml"
+    ],
+    "language": "es",
+    "startUrls": [
+      "https://publimotos.com/category/actualidad/",
+      "https://publimotos.com/category/actualidad/nacional/",
+      "https://publimotos.com/category/lanzamientos/"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "region": "Asia",
+    "name": "MotoPinas",
+    "baseUrl": "https://www.motopinas.com",
+    "domains": [
+      "motopinas.com"
+    ],
+    "sitemaps": [
+      "https://www.motopinas.com/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Philippines",
+    "region": "Asia",
+    "name": "Top Gear Philippines",
+    "baseUrl": "https://www.topgear.com.ph/moto-sapiens",
+    "domains": [
+      "topgear.com.ph"
+    ],
+    "sitemaps": [
+      "https://www.topgear.com.ph/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Philippines",
+    "region": "Asia",
+    "name": "Zigwheels Philippines",
+    "baseUrl": "https://www.zigwheels.ph/motorcycle-news",
+    "domains": [
+      "zigwheels.ph"
+    ],
+    "sitemaps": [
+      "https://www.zigwheels.ph/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Malaysia",
+    "region": "Asia",
+    "name": "Paul Tan",
+    "baseUrl": "https://paultan.org",
+    "domains": [
+      "paultan.org"
+    ],
+    "sitemaps": [
+      "https://paultan.org/sitemap_index.xml",
+      "https://paultan.org/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Malaysia",
+    "region": "Asia",
+    "name": "Zigwheels Malaysia",
+    "baseUrl": "https://www.zigwheels.my/motorcycle-news",
+    "domains": [
+      "zigwheels.my"
+    ],
+    "sitemaps": [
+      "https://www.zigwheels.my/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Malaysia",
+    "region": "Asia",
+    "name": "iMotorbike Malaysia",
+    "baseUrl": "https://news.imotorbike.com/en",
+    "domains": [
+      "imotorbike.com"
+    ],
+    "sitemaps": [
+      "https://news.imotorbike.com/sitemap_index.xml",
+      "https://news.imotorbike.com/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Bangladesh",
+    "region": "Asia",
+    "name": "BikeBD",
+    "baseUrl": "https://www.bikebd.com/blog",
+    "domains": [
+      "bikebd.com"
+    ],
+    "sitemaps": [
+      "https://www.bikebd.com/sitemap.xml"
+    ],
+    "language": "en"
+  },
+  {
+    "country": "Nepal",
+    "region": "Asia",
+    "name": "Nepal Drives",
+    "baseUrl": "https://www.nepaldrives.com",
+    "domains": [
+      "nepaldrives.com"
+    ],
+    "sitemaps": [
+      "https://www.nepaldrives.com/sitemap.xml"
+    ],
+    "language": "en"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "africa",
+    "name": "AFRICA",
+    "countries": [
+      {
+        "name": "Congo",
+        "sub": "East",
+        "currency": "CDF"
+      },
+      {
+        "name": "Kenya",
+        "sub": "East",
+        "currency": "KES"
+      },
+      {
+        "name": "Uganda",
+        "sub": "East",
+        "currency": "UGX"
+      },
+      {
+        "name": "Angola",
+        "sub": "East",
+        "currency": "AOA"
+      },
+      {
+        "name": "Tanzania",
+        "sub": "East",
+        "currency": "TZS"
+      },
+      {
+        "name": "Nigeria",
+        "sub": "West",
+        "currency": "NGN"
+      },
+      {
+        "name": "Benin",
+        "sub": "West",
+        "currency": "XOF"
+      },
+      {
+        "name": "Ghana",
+        "sub": "West",
+        "currency": "GHS"
+      },
+      {
+        "name": "Guinea",
+        "sub": "West",
+        "currency": "GNF"
+      },
+      {
+        "name": "Liberia",
+        "sub": "West",
+        "currency": "LRD"
+      },
+      {
+        "name": "Sierra Leone",
+        "sub": "West",
+        "currency": "SLE"
+      },
+      {
+        "name": "Togo",
+        "sub": "West",
+        "currency": "XOF"
+      },
+      {
+        "name": "Ivory Coast",
+        "sub": "West",
+        "currency": "XOF"
+      },
+      {
+        "name": "Mali",
+        "sub": "West",
+        "currency": "XOF"
+      },
+      {
+        "name": "Cameroon",
+        "sub": "West",
+        "currency": "XAF"
+      }
+    ]
+  },
+  {
+    "id": "latam",
+    "name": "LATAM",
+    "countries": [
+      {
+        "name": "Colombia",
+        "sub": "North",
+        "currency": "COP"
+      },
+      {
+        "name": "Mexico",
+        "sub": "North",
+        "currency": "MXN"
+      },
+      {
+        "name": "Guatemala",
+        "sub": "North",
+        "currency": "GTQ"
+      },
+      {
+        "name": "Honduras",
+        "sub": "North",
+        "currency": "HNL"
+      },
+      {
+        "name": "Nicaragua",
+        "sub": "North",
+        "currency": "NIO"
+      },
+      {
+        "name": "El Salvador",
+        "sub": "North",
+        "currency": "USD"
+      },
+      {
+        "name": "Dominican Republic",
+        "sub": "North",
+        "currency": "DOP"
+      },
+      {
+        "name": "Peru",
+        "sub": "South",
+        "currency": "PEN"
+      },
+      {
+        "name": "Argentina",
+        "sub": "South",
+        "currency": "ARS"
+      },
+      {
+        "name": "Bolivia",
+        "sub": "South",
+        "currency": "BOB"
+      }
+    ]
+  },
+  {
+    "id": "europe",
+    "name": "EUROPE",
+    "countries": [
+      {
+        "name": "Spain",
+        "sub": "",
+        "currency": "EUR"
+      },
+      {
+        "name": "Portugal",
+        "sub": "",
+        "currency": "EUR"
+      },
+      {
+        "name": "Italy",
+        "sub": "",
+        "currency": "EUR"
+      }
+    ]
+  },
+  {
+    "id": "brazil",
+    "name": "BRAZIL",
+    "countries": [
+      {
+        "name": "Brazil",
+        "sub": "",
+        "currency": "BRL"
+      }
+    ]
+  },
+  {
+    "id": "asia",
+    "name": "ASIA",
+    "countries": [
+      {
+        "name": "Nepal",
+        "sub": "",
+        "currency": "NPR"
+      },
+      {
+        "name": "Bangladesh",
+        "sub": "",
+        "currency": "BDT"
+      },
+      {
+        "name": "Sri Lanka",
+        "sub": "",
+        "currency": "LKR"
+      },
+      {
+        "name": "Philippines",
+        "sub": "",
+        "currency": "PHP"
+      },
+      {
+        "name": "Myanmar",
+        "sub": "",
+        "currency": "MMK"
+      },
+      {
+        "name": "Cambodia",
+        "sub": "",
+        "currency": "KHR"
+      },
+      {
+        "name": "Indonesia",
+        "sub": "",
+        "currency": "IDR"
+      },
+      {
+        "name": "Vietnam",
+        "sub": "",
+        "currency": "VND"
+      },
+      {
+        "name": "Malaysia",
+        "sub": "",
+        "currency": "MYR"
+      }
+    ]
+  },
+  {
+    "id": "mena",
+    "name": "MENA",
+    "countries": [
+      {
+        "name": "Egypt",
+        "sub": "",
+        "currency": "EGP"
+      },
+      {
+        "name": "Afghanistan",
+        "sub": "",
+        "currency": "AFN"
+      },
+      {
+        "name": "Iraq",
+        "sub": "",
+        "currency": "IQD"
+      },
+      {
+        "name": "Kuwait",
+        "sub": "",
+        "currency": "KWD"
+      },
+      {
+        "name": "Qatar",
+        "sub": "",
+        "currency": "QAR"
+      },
+      {
+        "name": "UAE",
+        "sub": "",
+        "currency": "AED"
+      }
+    ]
+  }
+]

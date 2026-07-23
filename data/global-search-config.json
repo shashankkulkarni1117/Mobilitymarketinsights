@@ -1,0 +1,1542 @@
+[
+  {
+    "region": "AFRICA",
+    "country": "Congo",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Congo\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Congo",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Congo\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Congo",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Congo\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Congo",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Congo\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Congo",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Congo\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Kenya",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Kenya\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Kenya",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Kenya\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Kenya",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Kenya\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Kenya",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Kenya\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Kenya",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Kenya\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Uganda\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Uganda\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Uganda\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Uganda\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Uganda\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Angola\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Angola\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Angola\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Angola\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Angola\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Tanzania",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Tanzania\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Tanzania",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Tanzania\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Tanzania",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Tanzania\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Tanzania",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Tanzania\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Tanzania",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Tanzania\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Nigeria\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Nigeria\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Nigeria\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Nigeria\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Nigeria\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Benin\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Benin\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Benin\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Benin\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Benin\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Ghana\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Ghana\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Ghana\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Ghana\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Ghana\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Guinea\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Guinea\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Guinea\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Guinea\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Guinea\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Liberia\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Liberia\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Liberia\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Liberia\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Liberia\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Sierra Leone\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Sierra Leone\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Sierra Leone\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Sierra Leone\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Sierra Leone\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Togo\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Togo\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Togo\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Togo\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Togo\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Ivory Coast\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Ivory Coast\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Ivory Coast\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Ivory Coast\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Ivory Coast\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Mali\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Mali\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Mali\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Mali\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Mali\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Cameroon\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Cameroon\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Cameroon\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Cameroon\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Cameroon\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Colombia\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Colombia\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Colombia\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Colombia\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Colombia\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Mexico\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Mexico\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Mexico\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Mexico\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Mexico\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Guatemala",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Guatemala\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Guatemala",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Guatemala\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Guatemala",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Guatemala\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Guatemala",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Guatemala\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Guatemala",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Guatemala\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Honduras",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Honduras\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Honduras",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Honduras\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Honduras",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Honduras\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Honduras",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Honduras\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Honduras",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Honduras\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Nicaragua\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Nicaragua\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Nicaragua\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Nicaragua\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Nicaragua\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"El Salvador\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"El Salvador\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"El Salvador\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"El Salvador\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"El Salvador\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Dominican Republic\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Dominican Republic\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Dominican Republic\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Dominican Republic\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Dominican Republic\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Peru\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Peru\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Peru\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Peru\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Peru\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Argentina",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Argentina\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Argentina",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Argentina\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Argentina",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Argentina\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Argentina",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Argentina\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Argentina",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Argentina\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "LATAM",
+    "country": "Bolivia",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Bolivia\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "LATAM",
+    "country": "Bolivia",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Bolivia\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Bolivia",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Bolivia\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Bolivia",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Bolivia\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "LATAM",
+    "country": "Bolivia",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Bolivia\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Spain",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Spain\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Spain",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Spain\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Spain",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Spain\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Spain",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Spain\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Spain",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Spain\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Portugal",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Portugal\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Portugal",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Portugal\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Portugal",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Portugal\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Portugal",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Portugal\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Portugal",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Portugal\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Italy",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Italy\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Italy",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Italy\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Italy",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Italy\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Italy",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Italy\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Italy",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Italy\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "BRAZIL",
+    "country": "Brazil",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Brazil\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "BRAZIL",
+    "country": "Brazil",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Brazil\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "BRAZIL",
+    "country": "Brazil",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Brazil\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "BRAZIL",
+    "country": "Brazil",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Brazil\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "BRAZIL",
+    "country": "Brazil",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Brazil\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Nepal",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Nepal\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Nepal",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Nepal\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Nepal",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Nepal\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Nepal",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Nepal\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Nepal",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Nepal\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Bangladesh",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Bangladesh\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Bangladesh",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Bangladesh\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Bangladesh",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Bangladesh\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Bangladesh",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Bangladesh\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Bangladesh",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Bangladesh\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Sri Lanka",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Sri Lanka\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Sri Lanka",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Sri Lanka\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Sri Lanka",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Sri Lanka\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Sri Lanka",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Sri Lanka\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Sri Lanka",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Sri Lanka\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Philippines",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Philippines\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Philippines",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Philippines\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Philippines",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Philippines\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Philippines",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Philippines\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Philippines",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Philippines\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Myanmar",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Myanmar\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Myanmar",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Myanmar\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Myanmar",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Myanmar\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Myanmar",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Myanmar\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Myanmar",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Myanmar\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Cambodia",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Cambodia\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Cambodia",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Cambodia\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Cambodia",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Cambodia\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Cambodia",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Cambodia\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Cambodia",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Cambodia\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Indonesia",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Indonesia\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Indonesia",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Indonesia\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Indonesia",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Indonesia\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Indonesia",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Indonesia\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Indonesia",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Indonesia\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Vietnam",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Vietnam\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Vietnam",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Vietnam\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Vietnam",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Vietnam\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Vietnam",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Vietnam\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Vietnam",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Vietnam\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "ASIA",
+    "country": "Malaysia",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Malaysia\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "ASIA",
+    "country": "Malaysia",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Malaysia\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Malaysia",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Malaysia\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Malaysia",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Malaysia\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "ASIA",
+    "country": "Malaysia",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Malaysia\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "MENA",
+    "country": "Egypt",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Egypt\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "MENA",
+    "country": "Egypt",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Egypt\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "MENA",
+    "country": "Egypt",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Egypt\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "MENA",
+    "country": "Egypt",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Egypt\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "MENA",
+    "country": "Egypt",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Egypt\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "MENA",
+    "country": "Afghanistan",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Afghanistan\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "MENA",
+    "country": "Afghanistan",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Afghanistan\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "MENA",
+    "country": "Afghanistan",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Afghanistan\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "MENA",
+    "country": "Afghanistan",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Afghanistan\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "MENA",
+    "country": "Afghanistan",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Afghanistan\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "MENA",
+    "country": "Iraq",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Iraq\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "MENA",
+    "country": "Iraq",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Iraq\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "MENA",
+    "country": "Iraq",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Iraq\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "MENA",
+    "country": "Iraq",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Iraq\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "MENA",
+    "country": "Iraq",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Iraq\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "MENA",
+    "country": "Kuwait",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Kuwait\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "MENA",
+    "country": "Kuwait",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Kuwait\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "MENA",
+    "country": "Kuwait",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Kuwait\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "MENA",
+    "country": "Kuwait",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Kuwait\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "MENA",
+    "country": "Kuwait",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Kuwait\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "MENA",
+    "country": "Qatar",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"Qatar\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "MENA",
+    "country": "Qatar",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"Qatar\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "MENA",
+    "country": "Qatar",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"Qatar\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "MENA",
+    "country": "Qatar",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"Qatar\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "MENA",
+    "country": "Qatar",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"Qatar\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  },
+  {
+    "region": "MENA",
+    "country": "UAE",
+    "category": "competition",
+    "label": "ICE Competition (≤400cc)",
+    "query": "\"UAE\" (motorcycle OR motorbike) (launch OR update OR price OR manufacturing OR production OR sales OR partnership) -scooter"
+  },
+  {
+    "region": "MENA",
+    "country": "UAE",
+    "category": "ev",
+    "label": "EV-2W Competition",
+    "query": "\"UAE\" (\"electric motorcycle\" OR \"electric scooter\" OR e-motorcycle OR e-scooter) (launch OR price OR sales OR charging OR battery OR partnership)"
+  },
+  {
+    "region": "MENA",
+    "country": "UAE",
+    "category": "policy",
+    "label": "Policy & Regulatory",
+    "query": "\"UAE\" (motorcycle OR \"two wheeler\" OR \"three wheeler\") (regulation OR policy OR tax OR duty OR registration OR emission OR safety OR standard OR incentive OR import OR export)"
+  },
+  {
+    "region": "MENA",
+    "country": "UAE",
+    "category": "threeWheeler",
+    "label": "Three-Wheeler Market",
+    "query": "\"UAE\" (\"three wheeler\" OR tricycle OR tuk-tuk OR \"auto rickshaw\" OR e-rickshaw) (launch OR fleet OR manufacturing OR sales OR charging OR battery OR partnership OR technology)"
+  },
+  {
+    "region": "MENA",
+    "country": "UAE",
+    "category": "social",
+    "label": "Social Track",
+    "query": "\"UAE\" (motorcycle OR \"electric scooter\" OR \"three wheeler\") (campaign OR promotion OR dealer OR \"test ride\" OR roadshow OR exhibition OR \"motor show\" OR CSR OR community OR \"service camp\")"
+  }
+]

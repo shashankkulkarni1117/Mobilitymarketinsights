@@ -1,3 +1,4 @@
+
 import type { Config, Context } from "@netlify/functions";
 import fuelPrices from "../../data/fuel-prices.json" with { type: "json" };
 
@@ -10,7 +11,7 @@ export default async (req: Request, _context: Context) => {
     return Response.json(
       {
         status: "error",
-        message: "country and a valid month are required."
+        message: "country and a valid YYYY-MM month are required."
       },
       { status: 400 }
     );
@@ -18,16 +19,22 @@ export default async (req: Request, _context: Context) => {
 
   const record = (fuelPrices as any[]).find(
     (item) =>
-      item.country.toLowerCase() === country.toLowerCase() &&
-      item.month === month &&
-      item.verified === true
+      String(item.country).toLowerCase() === country.toLowerCase() &&
+      item.month === month
   );
 
-  if (!record) {
+  if (
+    !record ||
+    record.verified !== true ||
+    typeof record.pricePerLitre !== "number"
+  ) {
     return Response.json({
       status: "NA",
       country,
       month,
+      currency: record?.currency || "",
+      source: "",
+      sourceUrl: "",
       points: []
     });
   }
@@ -38,6 +45,7 @@ export default async (req: Request, _context: Context) => {
     month,
     currency: record.currency,
     source: record.source,
+    sourceUrl: record.sourceUrl || "",
     points: [
       {
         day: 1,

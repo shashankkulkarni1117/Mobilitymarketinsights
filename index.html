@@ -248,7 +248,7 @@ async function renderDashboard(){
         </div>
         <div class="chartLatest">
           ${fl?`1 USD = <b>${Number(fl.value).toLocaleString()}</b> ${country.currency}`:"NA"}
-          <span class="chartLatestDate">${fl?`as of day ${fl.day} · ${state.month}`:"No supported live or fallback series"}</span>
+          <span class="chartLatestDate">${fl?`as of day ${fl.day} · ${state.month}`:"Historical FX unavailable for this currency/month"}</span>
         </div>
         ${svgChart(fx,"#E8A33D")}
       </div>
@@ -260,7 +260,7 @@ async function renderDashboard(){
         </div>
         <div class="chartLatest">
           ${fu?`<b>${Number(fu.value).toLocaleString()}</b> ${market.fuelCurrency} / litre`:"NA"}
-          <span class="chartLatestDate">${fu?`${market.fuelSource||"Verified data"} · ${state.month}`:"No verified monthly value"}</span>
+          <span class="chartLatestDate">${fu?`${market.fuelSource||"Verified data"} · ${state.month}`:"NA — no verified public monthly fuel value"}</span>
         </div>
         ${svgChart(fuel,"#3DDC97")}
       </div>

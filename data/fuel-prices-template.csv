@@ -1,0 +1,133 @@
+region,country,month,currency,pricePerLitre,source,sourceUrl,verified
+AFRICA,Congo,2026-05,CDF,,,,false
+AFRICA,Congo,2026-06,CDF,,,,false
+AFRICA,Congo,2026-07,CDF,,,,false
+AFRICA,Kenya,2026-05,KES,,,,false
+AFRICA,Kenya,2026-06,KES,,,,false
+AFRICA,Kenya,2026-07,KES,212.61,Verified monthly input,,true
+AFRICA,Uganda,2026-05,UGX,,,,false
+AFRICA,Uganda,2026-06,UGX,,,,false
+AFRICA,Uganda,2026-07,UGX,,,,false
+AFRICA,Angola,2026-05,AOA,,,,false
+AFRICA,Angola,2026-06,AOA,,,,false
+AFRICA,Angola,2026-07,AOA,,,,false
+AFRICA,Tanzania,2026-05,TZS,,,,false
+AFRICA,Tanzania,2026-06,TZS,,,,false
+AFRICA,Tanzania,2026-07,TZS,3990.0,Verified monthly input,,true
+AFRICA,Nigeria,2026-05,NGN,,,,false
+AFRICA,Nigeria,2026-06,NGN,,,,false
+AFRICA,Nigeria,2026-07,NGN,1077.5,Verified monthly input,,true
+AFRICA,Benin,2026-05,XOF,,,,false
+AFRICA,Benin,2026-06,XOF,,,,false
+AFRICA,Benin,2026-07,XOF,,,,false
+AFRICA,Ghana,2026-05,GHS,,,,false
+AFRICA,Ghana,2026-06,GHS,,,,false
+AFRICA,Ghana,2026-07,GHS,,,,false
+AFRICA,Guinea,2026-05,GNF,,,,false
+AFRICA,Guinea,2026-06,GNF,,,,false
+AFRICA,Guinea,2026-07,GNF,,,,false
+AFRICA,Liberia,2026-05,LRD,,,,false
+AFRICA,Liberia,2026-06,LRD,,,,false
+AFRICA,Liberia,2026-07,LRD,,,,false
+AFRICA,Sierra Leone,2026-05,SLE,,,,false
+AFRICA,Sierra Leone,2026-06,SLE,,,,false
+AFRICA,Sierra Leone,2026-07,SLE,,,,false
+AFRICA,Togo,2026-05,XOF,,,,false
+AFRICA,Togo,2026-06,XOF,,,,false
+AFRICA,Togo,2026-07,XOF,,,,false
+AFRICA,Ivory Coast,2026-05,XOF,,,,false
+AFRICA,Ivory Coast,2026-06,XOF,,,,false
+AFRICA,Ivory Coast,2026-07,XOF,,,,false
+AFRICA,Mali,2026-05,XOF,,,,false
+AFRICA,Mali,2026-06,XOF,,,,false
+AFRICA,Mali,2026-07,XOF,,,,false
+AFRICA,Cameroon,2026-05,XAF,,,,false
+AFRICA,Cameroon,2026-06,XAF,,,,false
+AFRICA,Cameroon,2026-07,XAF,,,,false
+LATAM,Colombia,2026-05,COP,,,,false
+LATAM,Colombia,2026-06,COP,,,,false
+LATAM,Colombia,2026-07,COP,,,,false
+LATAM,Mexico,2026-05,MXN,,,,false
+LATAM,Mexico,2026-06,MXN,,,,false
+LATAM,Mexico,2026-07,MXN,,,,false
+LATAM,Guatemala,2026-05,GTQ,,,,false
+LATAM,Guatemala,2026-06,GTQ,,,,false
+LATAM,Guatemala,2026-07,GTQ,10.05,Verified monthly input,,true
+LATAM,Honduras,2026-05,HNL,,,,false
+LATAM,Honduras,2026-06,HNL,,,,false
+LATAM,Honduras,2026-07,HNL,,,,false
+LATAM,Nicaragua,2026-05,NIO,,,,false
+LATAM,Nicaragua,2026-06,NIO,,,,false
+LATAM,Nicaragua,2026-07,NIO,,,,false
+LATAM,El Salvador,2026-05,USD,,,,false
+LATAM,El Salvador,2026-06,USD,,,,false
+LATAM,El Salvador,2026-07,USD,,,,false
+LATAM,Dominican Republic,2026-05,DOP,,,,false
+LATAM,Dominican Republic,2026-06,DOP,,,,false
+LATAM,Dominican Republic,2026-07,DOP,,,,false
+LATAM,Peru,2026-05,PEN,,,,false
+LATAM,Peru,2026-06,PEN,,,,false
+LATAM,Peru,2026-07,PEN,,,,false
+LATAM,Argentina,2026-05,ARS,,,,false
+LATAM,Argentina,2026-06,ARS,,,,false
+LATAM,Argentina,2026-07,ARS,2033.21,Verified monthly input,,true
+LATAM,Bolivia,2026-05,BOB,,,,false
+LATAM,Bolivia,2026-06,BOB,,,,false
+LATAM,Bolivia,2026-07,BOB,,,,false
+EUROPE,Spain,2026-05,EUR,,,,false
+EUROPE,Spain,2026-06,EUR,,,,false
+EUROPE,Spain,2026-07,EUR,,,,false
+EUROPE,Portugal,2026-05,EUR,,,,false
+EUROPE,Portugal,2026-06,EUR,,,,false
+EUROPE,Portugal,2026-07,EUR,,,,false
+EUROPE,Italy,2026-05,EUR,,,,false
+EUROPE,Italy,2026-06,EUR,,,,false
+EUROPE,Italy,2026-07,EUR,,,,false
+BRAZIL,Brazil,2026-05,BRL,,,,false
+BRAZIL,Brazil,2026-06,BRL,,,,false
+BRAZIL,Brazil,2026-07,BRL,,,,false
+ASIA,Nepal,2026-05,NPR,,,,false
+ASIA,Nepal,2026-06,NPR,,,,false
+ASIA,Nepal,2026-07,NPR,,,,false
+ASIA,Bangladesh,2026-05,BDT,,,,false
+ASIA,Bangladesh,2026-06,BDT,,,,false
+ASIA,Bangladesh,2026-07,BDT,,,,false
+ASIA,Sri Lanka,2026-05,LKR,,,,false
+ASIA,Sri Lanka,2026-06,LKR,,,,false
+ASIA,Sri Lanka,2026-07,LKR,,,,false
+ASIA,Philippines,2026-05,PHP,,,,false
+ASIA,Philippines,2026-06,PHP,,,,false
+ASIA,Philippines,2026-07,PHP,,,,false
+ASIA,Myanmar,2026-05,MMK,,,,false
+ASIA,Myanmar,2026-06,MMK,,,,false
+ASIA,Myanmar,2026-07,MMK,,,,false
+ASIA,Cambodia,2026-05,KHR,,,,false
+ASIA,Cambodia,2026-06,KHR,,,,false
+ASIA,Cambodia,2026-07,KHR,,,,false
+ASIA,Indonesia,2026-05,IDR,,,,false
+ASIA,Indonesia,2026-06,IDR,,,,false
+ASIA,Indonesia,2026-07,IDR,,,,false
+ASIA,Vietnam,2026-05,VND,,,,false
+ASIA,Vietnam,2026-06,VND,,,,false
+ASIA,Vietnam,2026-07,VND,,,,false
+ASIA,Malaysia,2026-05,MYR,,,,false
+ASIA,Malaysia,2026-06,MYR,,,,false
+ASIA,Malaysia,2026-07,MYR,,,,false
+MENA,Egypt,2026-05,EGP,,,,false
+MENA,Egypt,2026-06,EGP,,,,false
+MENA,Egypt,2026-07,EGP,,,,false
+MENA,Afghanistan,2026-05,AFN,,,,false
+MENA,Afghanistan,2026-06,AFN,,,,false
+MENA,Afghanistan,2026-07,AFN,,,,false
+MENA,Iraq,2026-05,IQD,,,,false
+MENA,Iraq,2026-06,IQD,,,,false
+MENA,Iraq,2026-07,IQD,,,,false
+MENA,Kuwait,2026-05,KWD,,,,false
+MENA,Kuwait,2026-06,KWD,,,,false
+MENA,Kuwait,2026-07,KWD,,,,false
+MENA,Qatar,2026-05,QAR,,,,false
+MENA,Qatar,2026-06,QAR,,,,false
+MENA,Qatar,2026-07,QAR,,,,false
+MENA,UAE,2026-05,AED,,,,false
+MENA,UAE,2026-06,AED,,,,false
+MENA,UAE,2026-07,AED,,,,false

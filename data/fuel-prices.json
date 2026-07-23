@@ -1,1185 +1,1454 @@
 [
   {
-    "country": "Nigeria",
-    "month": "2026-07",
-    "currency": "NGN",
-    "pricePerLitre": 1077.5,
-    "source": "Verified monthly input",
-    "verified": true
+    "region": "AFRICA",
+    "country": "Congo",
+    "month": "2026-05",
+    "currency": "CDF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "AFRICA",
+    "country": "Congo",
+    "month": "2026-06",
+    "currency": "CDF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Congo",
+    "month": "2026-07",
+    "currency": "CDF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Kenya",
+    "month": "2026-05",
+    "currency": "KES",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Kenya",
+    "month": "2026-06",
+    "currency": "KES",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
     "country": "Kenya",
     "month": "2026-07",
     "currency": "KES",
     "pricePerLitre": 212.61,
     "source": "Verified monthly input",
-    "verified": true
+    "sourceUrl": "",
+    "verified": true,
+    "status": "VERIFIED"
   },
   {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "month": "2026-05",
+    "currency": "UGX",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "month": "2026-06",
+    "currency": "UGX",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Uganda",
+    "month": "2026-07",
+    "currency": "UGX",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "month": "2026-05",
+    "currency": "AOA",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "month": "2026-06",
+    "currency": "AOA",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Angola",
+    "month": "2026-07",
+    "currency": "AOA",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Tanzania",
+    "month": "2026-05",
+    "currency": "TZS",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Tanzania",
+    "month": "2026-06",
+    "currency": "TZS",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
     "country": "Tanzania",
     "month": "2026-07",
     "currency": "TZS",
     "pricePerLitre": 3990.0,
     "source": "Verified monthly input",
-    "verified": true
+    "sourceUrl": "",
+    "verified": true,
+    "status": "VERIFIED"
   },
   {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "month": "2026-05",
+    "currency": "NGN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "month": "2026-06",
+    "currency": "NGN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Nigeria",
+    "month": "2026-07",
+    "currency": "NGN",
+    "pricePerLitre": 1077.5,
+    "source": "Verified monthly input",
+    "sourceUrl": "",
+    "verified": true,
+    "status": "VERIFIED"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "month": "2026-05",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "month": "2026-06",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Benin",
+    "month": "2026-07",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "month": "2026-05",
+    "currency": "GHS",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "month": "2026-06",
+    "currency": "GHS",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ghana",
+    "month": "2026-07",
+    "currency": "GHS",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "month": "2026-05",
+    "currency": "GNF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "month": "2026-06",
+    "currency": "GNF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Guinea",
+    "month": "2026-07",
+    "currency": "GNF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "month": "2026-05",
+    "currency": "LRD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "month": "2026-06",
+    "currency": "LRD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Liberia",
+    "month": "2026-07",
+    "currency": "LRD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "month": "2026-05",
+    "currency": "SLE",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "month": "2026-06",
+    "currency": "SLE",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Sierra Leone",
+    "month": "2026-07",
+    "currency": "SLE",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "month": "2026-05",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "month": "2026-06",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Togo",
+    "month": "2026-07",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "month": "2026-05",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "month": "2026-06",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Ivory Coast",
+    "month": "2026-07",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "month": "2026-05",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "month": "2026-06",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Mali",
+    "month": "2026-07",
+    "currency": "XOF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "month": "2026-05",
+    "currency": "XAF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "month": "2026-06",
+    "currency": "XAF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "AFRICA",
+    "country": "Cameroon",
+    "month": "2026-07",
+    "currency": "XAF",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "month": "2026-05",
+    "currency": "COP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "month": "2026-06",
+    "currency": "COP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Colombia",
+    "month": "2026-07",
+    "currency": "COP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "month": "2026-05",
+    "currency": "MXN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "month": "2026-06",
+    "currency": "MXN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Mexico",
+    "month": "2026-07",
+    "currency": "MXN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Guatemala",
+    "month": "2026-05",
+    "currency": "GTQ",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Guatemala",
+    "month": "2026-06",
+    "currency": "GTQ",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
     "country": "Guatemala",
     "month": "2026-07",
     "currency": "GTQ",
     "pricePerLitre": 10.05,
     "source": "Verified monthly input",
-    "verified": true
+    "sourceUrl": "",
+    "verified": true,
+    "status": "VERIFIED"
   },
   {
+    "region": "LATAM",
+    "country": "Honduras",
+    "month": "2026-05",
+    "currency": "HNL",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Honduras",
+    "month": "2026-06",
+    "currency": "HNL",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Honduras",
+    "month": "2026-07",
+    "currency": "HNL",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "month": "2026-05",
+    "currency": "NIO",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "month": "2026-06",
+    "currency": "NIO",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Nicaragua",
+    "month": "2026-07",
+    "currency": "NIO",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "month": "2026-05",
+    "currency": "USD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "month": "2026-06",
+    "currency": "USD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "El Salvador",
+    "month": "2026-07",
+    "currency": "USD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "month": "2026-05",
+    "currency": "DOP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "month": "2026-06",
+    "currency": "DOP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Dominican Republic",
+    "month": "2026-07",
+    "currency": "DOP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "month": "2026-05",
+    "currency": "PEN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "month": "2026-06",
+    "currency": "PEN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Peru",
+    "month": "2026-07",
+    "currency": "PEN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Argentina",
+    "month": "2026-05",
+    "currency": "ARS",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
+    "country": "Argentina",
+    "month": "2026-06",
+    "currency": "ARS",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "LATAM",
     "country": "Argentina",
     "month": "2026-07",
     "currency": "ARS",
     "pricePerLitre": 2033.21,
     "source": "Verified monthly input",
-    "verified": true
-  },
-  {
-    "country": "Congo",
-    "month": "2026-05",
-    "currency": "CDF",
-    "pricePerLitre": null,
-    "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": true,
+    "status": "VERIFIED"
   },
   {
-    "country": "Kenya",
-    "month": "2026-05",
-    "currency": "KES",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Uganda",
-    "month": "2026-05",
-    "currency": "UGX",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Angola",
-    "month": "2026-05",
-    "currency": "AOA",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Tanzania",
-    "month": "2026-05",
-    "currency": "TZS",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Nigeria",
-    "month": "2026-05",
-    "currency": "NGN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Benin",
-    "month": "2026-05",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Ghana",
-    "month": "2026-05",
-    "currency": "GHS",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Guinea",
-    "month": "2026-05",
-    "currency": "GNF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Liberia",
-    "month": "2026-05",
-    "currency": "LRD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Sierra Leone",
-    "month": "2026-05",
-    "currency": "SLE",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Togo",
-    "month": "2026-05",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Ivory Coast",
-    "month": "2026-05",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Mali",
-    "month": "2026-05",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Cameroon",
-    "month": "2026-05",
-    "currency": "XAF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Colombia",
-    "month": "2026-05",
-    "currency": "COP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Mexico",
-    "month": "2026-05",
-    "currency": "MXN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Guatemala",
-    "month": "2026-05",
-    "currency": "GTQ",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Honduras",
-    "month": "2026-05",
-    "currency": "HNL",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Nicaragua",
-    "month": "2026-05",
-    "currency": "NIO",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "El Salvador",
-    "month": "2026-05",
-    "currency": "USD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Dominican Republic",
-    "month": "2026-05",
-    "currency": "DOP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Peru",
-    "month": "2026-05",
-    "currency": "PEN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Argentina",
-    "month": "2026-05",
-    "currency": "ARS",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
+    "region": "LATAM",
     "country": "Bolivia",
     "month": "2026-05",
     "currency": "BOB",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
-    "country": "Spain",
-    "month": "2026-05",
-    "currency": "EUR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Portugal",
-    "month": "2026-05",
-    "currency": "EUR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Italy",
-    "month": "2026-05",
-    "currency": "EUR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Brazil",
-    "month": "2026-05",
-    "currency": "BRL",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Nepal",
-    "month": "2026-05",
-    "currency": "NPR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Bangladesh",
-    "month": "2026-05",
-    "currency": "BDT",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Sri Lanka",
-    "month": "2026-05",
-    "currency": "LKR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Philippines",
-    "month": "2026-05",
-    "currency": "PHP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Myanmar",
-    "month": "2026-05",
-    "currency": "MMK",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Cambodia",
-    "month": "2026-05",
-    "currency": "KHR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Indonesia",
-    "month": "2026-05",
-    "currency": "IDR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Vietnam",
-    "month": "2026-05",
-    "currency": "VND",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Malaysia",
-    "month": "2026-05",
-    "currency": "MYR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Egypt",
-    "month": "2026-05",
-    "currency": "EGP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Afghanistan",
-    "month": "2026-05",
-    "currency": "AFN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Iraq",
-    "month": "2026-05",
-    "currency": "IQD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Kuwait",
-    "month": "2026-05",
-    "currency": "KWD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Qatar",
-    "month": "2026-05",
-    "currency": "QAR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "UAE",
-    "month": "2026-05",
-    "currency": "AED",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Congo",
-    "month": "2026-06",
-    "currency": "CDF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Kenya",
-    "month": "2026-06",
-    "currency": "KES",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Uganda",
-    "month": "2026-06",
-    "currency": "UGX",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Angola",
-    "month": "2026-06",
-    "currency": "AOA",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Tanzania",
-    "month": "2026-06",
-    "currency": "TZS",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Nigeria",
-    "month": "2026-06",
-    "currency": "NGN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Benin",
-    "month": "2026-06",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Ghana",
-    "month": "2026-06",
-    "currency": "GHS",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Guinea",
-    "month": "2026-06",
-    "currency": "GNF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Liberia",
-    "month": "2026-06",
-    "currency": "LRD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Sierra Leone",
-    "month": "2026-06",
-    "currency": "SLE",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Togo",
-    "month": "2026-06",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Ivory Coast",
-    "month": "2026-06",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Mali",
-    "month": "2026-06",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Cameroon",
-    "month": "2026-06",
-    "currency": "XAF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Colombia",
-    "month": "2026-06",
-    "currency": "COP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Mexico",
-    "month": "2026-06",
-    "currency": "MXN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Guatemala",
-    "month": "2026-06",
-    "currency": "GTQ",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Honduras",
-    "month": "2026-06",
-    "currency": "HNL",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Nicaragua",
-    "month": "2026-06",
-    "currency": "NIO",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "El Salvador",
-    "month": "2026-06",
-    "currency": "USD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Dominican Republic",
-    "month": "2026-06",
-    "currency": "DOP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Peru",
-    "month": "2026-06",
-    "currency": "PEN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Argentina",
-    "month": "2026-06",
-    "currency": "ARS",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
+    "region": "LATAM",
     "country": "Bolivia",
     "month": "2026-06",
     "currency": "BOB",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
-    "country": "Spain",
-    "month": "2026-06",
-    "currency": "EUR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Portugal",
-    "month": "2026-06",
-    "currency": "EUR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Italy",
-    "month": "2026-06",
-    "currency": "EUR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Brazil",
-    "month": "2026-06",
-    "currency": "BRL",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Nepal",
-    "month": "2026-06",
-    "currency": "NPR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Bangladesh",
-    "month": "2026-06",
-    "currency": "BDT",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Sri Lanka",
-    "month": "2026-06",
-    "currency": "LKR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Philippines",
-    "month": "2026-06",
-    "currency": "PHP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Myanmar",
-    "month": "2026-06",
-    "currency": "MMK",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Cambodia",
-    "month": "2026-06",
-    "currency": "KHR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Indonesia",
-    "month": "2026-06",
-    "currency": "IDR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Vietnam",
-    "month": "2026-06",
-    "currency": "VND",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Malaysia",
-    "month": "2026-06",
-    "currency": "MYR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Egypt",
-    "month": "2026-06",
-    "currency": "EGP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Afghanistan",
-    "month": "2026-06",
-    "currency": "AFN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Iraq",
-    "month": "2026-06",
-    "currency": "IQD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Kuwait",
-    "month": "2026-06",
-    "currency": "KWD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Qatar",
-    "month": "2026-06",
-    "currency": "QAR",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "UAE",
-    "month": "2026-06",
-    "currency": "AED",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Congo",
-    "month": "2026-07",
-    "currency": "CDF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Uganda",
-    "month": "2026-07",
-    "currency": "UGX",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Angola",
-    "month": "2026-07",
-    "currency": "AOA",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Benin",
-    "month": "2026-07",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Ghana",
-    "month": "2026-07",
-    "currency": "GHS",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Guinea",
-    "month": "2026-07",
-    "currency": "GNF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Liberia",
-    "month": "2026-07",
-    "currency": "LRD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Sierra Leone",
-    "month": "2026-07",
-    "currency": "SLE",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Togo",
-    "month": "2026-07",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Ivory Coast",
-    "month": "2026-07",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Mali",
-    "month": "2026-07",
-    "currency": "XOF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Cameroon",
-    "month": "2026-07",
-    "currency": "XAF",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Colombia",
-    "month": "2026-07",
-    "currency": "COP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Mexico",
-    "month": "2026-07",
-    "currency": "MXN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Honduras",
-    "month": "2026-07",
-    "currency": "HNL",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Nicaragua",
-    "month": "2026-07",
-    "currency": "NIO",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "El Salvador",
-    "month": "2026-07",
-    "currency": "USD",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Dominican Republic",
-    "month": "2026-07",
-    "currency": "DOP",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
-    "country": "Peru",
-    "month": "2026-07",
-    "currency": "PEN",
-    "pricePerLitre": null,
-    "source": "",
-    "sourceUrl": "",
-    "verified": false
-  },
-  {
+    "region": "LATAM",
     "country": "Bolivia",
     "month": "2026-07",
     "currency": "BOB",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "EUROPE",
+    "country": "Spain",
+    "month": "2026-05",
+    "currency": "EUR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Spain",
+    "month": "2026-06",
+    "currency": "EUR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "EUROPE",
     "country": "Spain",
     "month": "2026-07",
     "currency": "EUR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "EUROPE",
+    "country": "Portugal",
+    "month": "2026-05",
+    "currency": "EUR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Portugal",
+    "month": "2026-06",
+    "currency": "EUR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "EUROPE",
     "country": "Portugal",
     "month": "2026-07",
     "currency": "EUR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "EUROPE",
+    "country": "Italy",
+    "month": "2026-05",
+    "currency": "EUR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "EUROPE",
+    "country": "Italy",
+    "month": "2026-06",
+    "currency": "EUR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "EUROPE",
     "country": "Italy",
     "month": "2026-07",
     "currency": "EUR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "BRAZIL",
+    "country": "Brazil",
+    "month": "2026-05",
+    "currency": "BRL",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "BRAZIL",
+    "country": "Brazil",
+    "month": "2026-06",
+    "currency": "BRL",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "BRAZIL",
     "country": "Brazil",
     "month": "2026-07",
     "currency": "BRL",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Nepal",
+    "month": "2026-05",
+    "currency": "NPR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Nepal",
+    "month": "2026-06",
+    "currency": "NPR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Nepal",
     "month": "2026-07",
     "currency": "NPR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Bangladesh",
+    "month": "2026-05",
+    "currency": "BDT",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Bangladesh",
+    "month": "2026-06",
+    "currency": "BDT",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Bangladesh",
     "month": "2026-07",
     "currency": "BDT",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Sri Lanka",
+    "month": "2026-05",
+    "currency": "LKR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Sri Lanka",
+    "month": "2026-06",
+    "currency": "LKR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Sri Lanka",
     "month": "2026-07",
     "currency": "LKR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Philippines",
+    "month": "2026-05",
+    "currency": "PHP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Philippines",
+    "month": "2026-06",
+    "currency": "PHP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Philippines",
     "month": "2026-07",
     "currency": "PHP",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Myanmar",
+    "month": "2026-05",
+    "currency": "MMK",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Myanmar",
+    "month": "2026-06",
+    "currency": "MMK",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Myanmar",
     "month": "2026-07",
     "currency": "MMK",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Cambodia",
+    "month": "2026-05",
+    "currency": "KHR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Cambodia",
+    "month": "2026-06",
+    "currency": "KHR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Cambodia",
     "month": "2026-07",
     "currency": "KHR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Indonesia",
+    "month": "2026-05",
+    "currency": "IDR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Indonesia",
+    "month": "2026-06",
+    "currency": "IDR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Indonesia",
     "month": "2026-07",
     "currency": "IDR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Vietnam",
+    "month": "2026-05",
+    "currency": "VND",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Vietnam",
+    "month": "2026-06",
+    "currency": "VND",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Vietnam",
     "month": "2026-07",
     "currency": "VND",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "ASIA",
+    "country": "Malaysia",
+    "month": "2026-05",
+    "currency": "MYR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
+    "country": "Malaysia",
+    "month": "2026-06",
+    "currency": "MYR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "ASIA",
     "country": "Malaysia",
     "month": "2026-07",
     "currency": "MYR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "MENA",
+    "country": "Egypt",
+    "month": "2026-05",
+    "currency": "EGP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
+    "country": "Egypt",
+    "month": "2026-06",
+    "currency": "EGP",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
     "country": "Egypt",
     "month": "2026-07",
     "currency": "EGP",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "MENA",
+    "country": "Afghanistan",
+    "month": "2026-05",
+    "currency": "AFN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
+    "country": "Afghanistan",
+    "month": "2026-06",
+    "currency": "AFN",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
     "country": "Afghanistan",
     "month": "2026-07",
     "currency": "AFN",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "MENA",
+    "country": "Iraq",
+    "month": "2026-05",
+    "currency": "IQD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
+    "country": "Iraq",
+    "month": "2026-06",
+    "currency": "IQD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
     "country": "Iraq",
     "month": "2026-07",
     "currency": "IQD",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "MENA",
+    "country": "Kuwait",
+    "month": "2026-05",
+    "currency": "KWD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
+    "country": "Kuwait",
+    "month": "2026-06",
+    "currency": "KWD",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
     "country": "Kuwait",
     "month": "2026-07",
     "currency": "KWD",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "MENA",
+    "country": "Qatar",
+    "month": "2026-05",
+    "currency": "QAR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
+    "country": "Qatar",
+    "month": "2026-06",
+    "currency": "QAR",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
     "country": "Qatar",
     "month": "2026-07",
     "currency": "QAR",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   },
   {
+    "region": "MENA",
+    "country": "UAE",
+    "month": "2026-05",
+    "currency": "AED",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
+    "country": "UAE",
+    "month": "2026-06",
+    "currency": "AED",
+    "pricePerLitre": null,
+    "source": "",
+    "sourceUrl": "",
+    "verified": false,
+    "status": "NA"
+  },
+  {
+    "region": "MENA",
     "country": "UAE",
     "month": "2026-07",
     "currency": "AED",
     "pricePerLitre": null,
     "source": "",
     "sourceUrl": "",
-    "verified": false
+    "verified": false,
+    "status": "NA"
   }
 ]

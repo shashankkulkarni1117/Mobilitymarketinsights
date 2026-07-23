@@ -156,8 +156,118 @@ function newsColumn(icon,title,accent,items,category,country,month){
   const empty=`<div class="newsItem"><div class="newsMeta"><span style="color:#8B92A0">STATUS</span><span class="dot">·</span><span>${status?.lastChecked||"Not checked"}</span></div><div class="newsText" style="font-size:18px;font-weight:700;color:#565C68">NA</div>${hint}</div>`;
   return`<div class="newsCol"><div class="newsColHead" style="color:${accent}">${icon}<span>${title}</span></div><div class="newsList">${body||empty}</div></div>`;
 }
-function renderDashboard(){const region=REGIONS.find(r=>r.id===state.regionId),country=region.countries.find(c=>c.name===state.countryName),ind=INDICATORS[country.name]||{},fx=SERIES.fx?.[country.name]?.[state.month]||[],fuel=SERIES.fuel?.[country.name]?.[state.month]||[],sel=NEWS.filter(n=>n.country===country.name&&n.month===state.month&&n.approved!==false),fl=fx[fx.length-1],fu=fuel[fuel.length-1];document.getElementById("dashboard").innerHTML=`<div class="countryHeader"><div class="countryName">${country.name}</div><div class="countryMeta">${region.name}${country.sub?" · "+country.sub:""} — Currency ${country.currency}</div></div><div class="statStrip">${statBlock("GDP (nominal)",ind.gdp??"—","$B",ind.year,ind.gdpGrowth,ind.isReal,ind.estOK)}${statBlock("Inflation (CPI)",ind.inflation??"—","%",ind.year,undefined,ind.isReal,ind.estOK)}${statBlock("Per-capita income",Number(ind.perCapita||0).toLocaleString(),"$",ind.year,undefined,ind.isReal,ind.estOK)}${statBlock("Population",ind.population??"—","M",ind.year,undefined,ind.isReal,ind.estOK)}</div><div class="chartsRow"><div class="chartCard"><div class="chartHead">${ICONS.dollar} FX rate vs USD — dynamic feed</div><div class="chartLatest">${fl?`1 USD = <b>${fl.value.toLocaleString()}</b> ${country.currency}`:"No FX data"}<span class="chartLatestDate">${fl?`as of day ${fl.day} · ${state.month}`:""}</span></div>${svgChart(fx,"#E8A33D")}</div><div class="chartCard"><div class="chartHead">${ICONS.fuel} Fuel price per litre — dynamic feed</div><div class="chartLatest">${fu?`<b>$${Number(fu.value).toFixed(2)}</b> / litre`:"No fuel data"}<span class="chartLatestDate">${fu?`as of day ${fu.day} · ${state.month}`:""}</span></div>${svgChart(fuel,"#3DDC97")}</div></div><div class="sectionTitle">Social & news intelligence — ${state.month} ${sel.length?'<span class="liveTag" style="margin-left:8px">DYNAMIC, SOURCED</span>':""}</div><div class="newsGrid">${newsColumn(ICONS.bike,"ICE Competition (≤400cc)","#E8A33D",sel.filter(n=>n.category==="competition"),"competition",country.name,state.month)}${newsColumn(ICONS.zap,"EV-2W Competition","#3DDC97",sel.filter(n=>n.category==="ev"),"ev",country.name,state.month)}${newsColumn(ICONS.shield,"Policy & Regulatory","#E85D4A",sel.filter(n=>n.category==="policy"),"policy",country.name,state.month)}${newsColumn(ICONS.users,"Three-Wheeler Market","#7AA2E8",sel.filter(n=>n.category==="threeWheeler"),"threeWheeler",country.name,state.month)}${newsColumn(ICONS.share,"Social Track","#A78BFA",sel.filter(n=>n.category==="social"),"social",country.name,state.month)}</div>`;}
-function renderAll(){renderMonthRow();renderRegionRow();renderCountryRow();renderDashboard();}
+async function loadMarketSeries(country,month){
+  const fallbackFx=SERIES.fx?.[country.name]?.[month]||[];
+  const fallbackFuel=SERIES.fuel?.[country.name]?.[month]||[];
+
+  let fx=fallbackFx;
+  let fuel=fallbackFuel;
+  let fxStatus=fallbackFx.length?"FALLBACK":"NA";
+  let fuelStatus=fallbackFuel.length?"FALLBACK":"NA";
+  let fuelCurrency=country.currency;
+  let fuelSource="";
+
+  try{
+    const response=await fetch(
+      `/api/fx?currency=${encodeURIComponent(country.currency)}&month=${encodeURIComponent(month)}`,
+      {cache:"no-store"}
+    );
+    if(response.ok){
+      const result=await response.json();
+      if(Array.isArray(result.points)&&result.points.length){
+        fx=result.points;
+        fxStatus="LIVE";
+      }
+    }
+  }catch(error){}
+
+  try{
+    const response=await fetch(
+      `/api/fuel?country=${encodeURIComponent(country.name)}&month=${encodeURIComponent(month)}`,
+      {cache:"no-store"}
+    );
+    if(response.ok){
+      const result=await response.json();
+      if(Array.isArray(result.points)&&result.points.length){
+        fuel=result.points;
+        fuelStatus="VERIFIED";
+        fuelCurrency=result.currency||country.currency;
+        fuelSource=result.source||"";
+      }
+    }
+  }catch(error){}
+
+  return {fx,fuel,fxStatus,fuelStatus,fuelCurrency,fuelSource};
+}
+
+async function renderDashboard(){
+  const region=REGIONS.find(r=>r.id===state.regionId);
+  const country=region.countries.find(c=>c.name===state.countryName);
+  const ind=INDICATORS[country.name]||{};
+  const market=await loadMarketSeries(country,state.month);
+  const fx=market.fx;
+  const fuel=market.fuel;
+  const sel=NEWS.filter(
+    n=>n.country===country.name&&
+       n.month===state.month&&
+       n.approved!==false
+  );
+  const fl=fx[fx.length-1];
+  const fu=fuel[fuel.length-1];
+
+  document.getElementById("dashboard").innerHTML=`
+    <div class="countryHeader">
+      <div class="countryName">${country.name}</div>
+      <div class="countryMeta">${region.name}${country.sub?" · "+country.sub:""} — Currency ${country.currency}</div>
+    </div>
+
+    <div class="statStrip">
+      ${statBlock("GDP (nominal)",ind.gdp??"—","$B",ind.year,ind.gdpGrowth,ind.isReal,ind.estOK)}
+      ${statBlock("Inflation (CPI)",ind.inflation??"—","%",ind.year,undefined,ind.isReal,ind.estOK)}
+      ${statBlock("Per-capita income",Number(ind.perCapita||0).toLocaleString(),"$",ind.year,undefined,ind.isReal,ind.estOK)}
+      ${statBlock("Population",ind.population??"—","M",ind.year,undefined,ind.isReal,ind.estOK)}
+    </div>
+
+    <div class="chartsRow">
+      <div class="chartCard">
+        <div class="chartHead">
+          ${ICONS.dollar} FX rate vs USD
+          <span class="liveTag" style="margin-left:7px">${market.fxStatus}</span>
+        </div>
+        <div class="chartLatest">
+          ${fl?`1 USD = <b>${Number(fl.value).toLocaleString()}</b> ${country.currency}`:"NA"}
+          <span class="chartLatestDate">${fl?`as of day ${fl.day} · ${state.month}`:"No supported live or fallback series"}</span>
+        </div>
+        ${svgChart(fx,"#E8A33D")}
+      </div>
+
+      <div class="chartCard">
+        <div class="chartHead">
+          ${ICONS.fuel} Fuel price per litre
+          <span class="liveTag" style="margin-left:7px">${market.fuelStatus}</span>
+        </div>
+        <div class="chartLatest">
+          ${fu?`<b>${Number(fu.value).toLocaleString()}</b> ${market.fuelCurrency} / litre`:"NA"}
+          <span class="chartLatestDate">${fu?`${market.fuelSource||"Verified data"} · ${state.month}`:"No verified monthly value"}</span>
+        </div>
+        ${svgChart(fuel,"#3DDC97")}
+      </div>
+    </div>
+
+    <div class="sectionTitle">
+      Social & news intelligence — ${state.month}
+      ${sel.length?'<span class="liveTag" style="margin-left:8px">DYNAMIC, SOURCED</span>':""}
+    </div>
+
+    <div class="newsGrid">
+      ${newsColumn(ICONS.bike,"ICE Competition (≤400cc)","#E8A33D",sel.filter(n=>n.category==="competition"),"competition",country.name,state.month)}
+      ${newsColumn(ICONS.zap,"EV-2W Competition","#3DDC97",sel.filter(n=>n.category==="ev"),"ev",country.name,state.month)}
+      ${newsColumn(ICONS.shield,"Policy & Regulatory","#E85D4A",sel.filter(n=>n.category==="policy"),"policy",country.name,state.month)}
+      ${newsColumn(ICONS.users,"Three-Wheeler Market","#7AA2E8",sel.filter(n=>n.category==="threeWheeler"),"threeWheeler",country.name,state.month)}
+      ${newsColumn(ICONS.share,"Social Track","#A78BFA",sel.filter(n=>n.category==="social"),"social",country.name,state.month)}
+    </div>`;
+}
+function renderAll(){renderMonthRow();renderRegionRow();renderCountryRow();renderDashboard().catch(console.error);}
 async function init(){[REGIONS,NEWS,INDICATORS,SERIES,COVERAGE]=await Promise.all([getJson("regions"),getJson("news"),getJson("indicators"),getJson("series"),getJson("coverage")]);state.month=bestDefaultMonth()||new Date().toISOString().slice(0,7);state.regionId=REGIONS[0].id;state.countryName=firstCountryWithNews(REGIONS[0],state.month);renderAll();}
 init();
 </script></body></html>

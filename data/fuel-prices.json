@@ -1,0 +1,42 @@
+[
+  {
+    "country": "Nigeria",
+    "month": "2026-07",
+    "currency": "NGN",
+    "pricePerLitre": 1077.5,
+    "source": "Verified monthly input",
+    "verified": true
+  },
+  {
+    "country": "Kenya",
+    "month": "2026-07",
+    "currency": "KES",
+    "pricePerLitre": 212.61,
+    "source": "Verified monthly input",
+    "verified": true
+  },
+  {
+    "country": "Tanzania",
+    "month": "2026-07",
+    "currency": "TZS",
+    "pricePerLitre": 3990.0,
+    "source": "Verified monthly input",
+    "verified": true
+  },
+  {
+    "country": "Guatemala",
+    "month": "2026-07",
+    "currency": "GTQ",
+    "pricePerLitre": 10.05,
+    "source": "Verified monthly input",
+    "verified": true
+  },
+  {
+    "country": "Argentina",
+    "month": "2026-07",
+    "currency": "ARS",
+    "pricePerLitre": 2033.21,
+    "source": "Verified monthly input",
+    "verified": true
+  }
+]

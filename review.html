@@ -3,79 +3,26 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Review Queue — Market Mobility Insights</title>
+<title>Automatic Publishing — Market Mobility Insights</title>
 <style>
 body{margin:0;background:#111419;color:#d7d9df;font-family:Arial,sans-serif}
-header{padding:20px 26px;border-bottom:1px solid #292f38;display:flex;justify-content:space-between}
-a{color:#8eb4ef;text-decoration:none}.toolbar{padding:16px 26px;display:flex;gap:8px;flex-wrap:wrap}
-button,input,select{background:#1c2027;color:#d7d9df;border:1px solid #363d48;border-radius:5px;padding:8px}
-.grid{padding:0 26px 30px;display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:12px}
-.card{background:#181c22;border:1px solid #2a3039;border-radius:8px;padding:14px}
-.meta{font-size:11px;color:#8f98a5;margin-bottom:7px}.title{font-weight:700;line-height:1.35}
-.summary{font-size:13px;color:#b8bec8;line-height:1.45;margin:9px 0}.source{font-size:11px}
-.actions{display:flex;gap:14px;margin-top:10px}.approve{color:#3ddc97}.reject{color:#e85d4a}
-.status{padding:0 26px 14px;color:#969eaa}
+main{max-width:720px;margin:70px auto;padding:28px;background:#181c22;border:1px solid #2a3039;border-radius:10px}
+a{color:#8eb4ef;text-decoration:none}
+h1{margin-top:0}
 </style>
 </head>
 <body>
-<header><h1>Review Queue</h1><a href="/">← Main dashboard</a></header>
-<div class="toolbar">
-  <input id="token" type="password" placeholder="REFRESH_TOKEN">
-  <select id="month"></select>
-  <select id="country"><option value="">All countries</option></select>
-  <button id="reload">Reload</button>
-  <button id="submit">Apply decisions</button>
-</div>
-<div id="status" class="status">Loading…</div>
-<div id="grid" class="grid"></div>
-<script>
-let items=[];
-async function load(){
- const r=await fetch("/api/review-queue",{cache:"no-store"});
- const p=await r.json(); items=p.items||[];
- const months=[...new Set(items.map(x=>x.month))].sort().reverse();
- month.innerHTML='<option value="">All months</option>'+months.map(x=>`<option>${x}</option>`).join('');
- const countries=[...new Set(items.map(x=>x.country))].sort();
- country.innerHTML='<option value="">All countries</option>'+countries.map(x=>`<option>${x}</option>`).join('');
- render();
-}
-function render(){
- const m=month.value,c=country.value;
- const filtered=items.filter(x=>(!m||x.month===m)&&(!c||x.country===c));
- status.textContent=`${filtered.length} candidate articles shown; ${items.length} total in queue.`;
- grid.innerHTML=filtered.map(x=>`
- <div class="card" data-id="${x.id}">
-   <div class="meta">${x.country} · ${x.month} · ${x.category} · ${x.date}</div>
-   <div class="title">${x.title||x.text}</div>
-   <div class="summary">${x.text||""}</div>
-   <div class="source"><a target="_blank" href="${x.url}">${x.source}</a></div>
-   <div class="actions">
-     <label class="approve"><input type="radio" name="d-${x.id}" value="approve"> Approve</label>
-     <label class="reject"><input type="radio" name="d-${x.id}" value="reject"> Reject</label>
-     <label><input type="radio" name="d-${x.id}" value="hold" checked> Hold</label>
-   </div>
- </div>`).join('');
-}
-async function submit(){
- const approveIds=[],rejectIds=[];
- document.querySelectorAll(".card").forEach(card=>{
-   const choice=card.querySelector("input[type=radio]:checked")?.value;
-   if(choice==="approve")approveIds.push(card.dataset.id);
-   if(choice==="reject")rejectIds.push(card.dataset.id);
- });
- const r=await fetch("/api/review-action",{
-   method:"POST",
-   headers:{"content-type":"application/json","x-refresh-token":token.value},
-   body:JSON.stringify({approveIds,rejectIds})
- });
- const p=await r.json();
- if(!r.ok)throw new Error(p.message||"Approval failed");
- alert(`Approved ${p.approved}; rejected ${p.rejected}; remaining ${p.remaining}`);
- await load();
-}
-month.onchange=render;country.onchange=render;reload.onclick=load;
-submit.onclick=()=>submit().catch(e=>alert(e.message));
-load().catch(e=>status.textContent=e.message);
-</script>
+<main>
+<h1>Review disabled</h1>
+<p>All portfolio-relevant articles are published automatically.</p>
+<p>Scope:</p>
+<ul>
+<li>ICE motorcycles only, up to 400cc</li>
+<li>Electric scooters and electric motorcycles</li>
+<li>ICE scooters excluded</li>
+<li>Cars, buses, trucks, bicycles and motorcycles above 400cc excluded</li>
+</ul>
+<p><a href="/">Return to dashboard</a></p>
+</main>
 </body>
 </html>

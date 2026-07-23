@@ -1,7 +1,16 @@
+
 import type { Config, Context } from "@netlify/functions";
-import { newsStore } from "./_shared/store.mts";
-export default async (_req: Request, _context: Context) => {
-  const queue = await newsStore().get("review-queue.json", { type: "json" });
-  return Response.json(queue || { generatedAt: null, count: 0, items: [] });
+
+export default async(_req:Request,_context:Context)=>{
+  return Response.json({
+    generatedAt:new Date().toISOString(),
+    count:0,
+    items:[],
+    message:"Review is disabled. Portfolio-relevant items are published automatically."
+  });
 };
-export const config: Config = { path: "/api/review-queue", method: ["GET"] };
+
+export const config:Config={
+  path:"/api/review-queue",
+  method:["GET"]
+};

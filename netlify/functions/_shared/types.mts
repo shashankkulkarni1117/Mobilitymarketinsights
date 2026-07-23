@@ -1,5 +1,10 @@
 
-export type Category = "competition" | "ev" | "policy" | "threeWheeler" | "social";
+export type Category =
+  | "competition"
+  | "ev"
+  | "policy"
+  | "threeWheeler"
+  | "social";
 
 export interface NewsRecord {
   id: string;
@@ -15,6 +20,9 @@ export interface NewsRecord {
   oem?: string;
   model?: string;
   eventType?: string;
+  vehicleType?: string;
+  displacementCc?: number;
+  confidence?: number;
   approved: boolean;
   fetchedAt?: string;
 }

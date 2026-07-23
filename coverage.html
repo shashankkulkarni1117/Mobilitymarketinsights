@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Coverage Monitor — Market Mobility Insights</title>
+<style>
+body{margin:0;background:#111419;color:#d7d9df;font-family:Arial,sans-serif}
+header{padding:20px 26px;border-bottom:1px solid #292f38;display:flex;align-items:center;justify-content:space-between}
+h1{margin:0;font-size:22px}a{color:#8eb4ef;text-decoration:none}
+.controls{padding:16px 26px;display:flex;gap:10px;align-items:center}
+select,button{background:#1c2027;color:#d7d9df;border:1px solid #363d48;border-radius:5px;padding:8px 10px}
+table{width:calc(100% - 52px);margin:0 26px 30px;border-collapse:collapse;background:#171b21}
+th,td{padding:10px;border:1px solid #2a3039;text-align:center;font-size:12px}
+th{background:#20252d;position:sticky;top:0}
+td.country{text-align:left;font-weight:700}.yes{color:#3ddc97}.no{color:#e85d4a}
+.badge{padding:3px 7px;border-radius:999px;background:#242b35}
+.summary{padding:0 26px 14px;color:#969eaa;font-size:13px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Coverage Monitor</h1>
+  <a href="/">← Main dashboard</a>
+</header>
+<div class="controls">
+  <label>Month</label>
+  <select id="month"></select>
+  <button id="reload">Refresh</button>
+</div>
+<div class="summary" id="summary">Loading…</div>
+<table>
+<thead>
+<tr>
+<th>Region</th><th>Country</th><th>ICE</th><th>EV</th><th>Policy</th>
+<th>3W</th><th>Social</th><th>Total</th><th>Status</th>
+</tr>
+</thead>
+<tbody id="rows"></tbody>
+</table>
+<script>
+let payload;
+async function load(){
+  const r=await fetch("/api/coverage-live",{cache:"no-store"});
+  payload=await r.json();
+  const month=document.getElementById("month");
+  month.innerHTML=payload.months.map(m=>`<option value="${m}">${m}</option>`).join("");
+  render();
+}
+function render(){
+  const selected=document.getElementById("month").value;
+  const rows=payload.rows.filter(x=>x.month===selected);
+  const covered=rows.filter(x=>x.covered).length;
+  document.getElementById("summary").textContent=
+    `${covered} of ${rows.length} countries have at least one verified item in ${selected}.`;
+  document.getElementById("rows").innerHTML=rows.map(x=>`
+    <tr>
+      <td>${x.region}</td>
+      <td class="country">${x.country}</td>
+      ${["competition","ev","policy","threeWheeler","social"].map(c=>
+        `<td class="${x.counts[c]?"yes":"no"}">${x.counts[c]||"—"}</td>`
+      ).join("")}
+      <td>${x.total}</td>
+      <td><span class="badge ${x.covered?"yes":"no"}">${x.covered?"Covered":"Zero news"}</span></td>
+    </tr>`).join("");
+}
+document.getElementById("month").onchange=render;
+document.getElementById("reload").onclick=load;
+load().catch(e=>document.getElementById("summary").textContent=e.message);
+</script>
+</body>
+</html>

@@ -1,32 +1,3 @@
-
 import type { Config, Context } from "@netlify/functions";
-
-export default async (req: Request, _context: Context) => {
-  const token = Netlify.env.get("REFRESH_TOKEN");
-
-  if (!token || req.headers.get("x-refresh-token") !== token) {
-    return new Response("Unauthorized", { status: 401 });
-  }
-
-  const crawlerUrl = new URL(
-    "/.netlify/functions/news-crawler-background",
-    req.url
-  );
-
-  const response = await fetch(crawlerUrl, { method: "POST" });
-
-  return Response.json(
-    {
-      accepted: response.ok,
-      message: response.ok
-        ? "Three-month news crawl started. Review candidates after several minutes."
-        : "Crawler could not be started."
-    },
-    { status: response.ok ? 202 : 500 }
-  );
-};
-
-export const config: Config = {
-  path: "/api/refresh-news",
-  method: ["POST"]
-};
+const REGIONS=["AFRICA","LATAM","ASIA","MENA","EUROPE","BRAZIL"];function months(){const out:string[]=[];const now=new Date();for(let i=0;i<3;i++){const d=new Date(Date.UTC(now.getUTCFullYear(),now.getUTCMonth()-i,1));out.push(d.toISOString().slice(0,7));}return out;}
+export default async(req:Request,_context:Context)=>{const token=Netlify.env.get("REFRESH_TOKEN");if(!token||req.headers.get("x-refresh-token")!==token)return new Response("Unauthorized",{status:401});const origin=new URL(req.url).origin;const jobs=[];for(const month of months())for(const region of REGIONS){const u=new URL("/.netlify/functions/crawl-batch-background",origin);u.searchParams.set("region",region);u.searchParams.set("month",month);jobs.push(fetch(u,{method:"POST"}).then(r=>r.ok));}const result=await Promise.all(jobs);return Response.json({accepted:result.filter(Boolean).length,totalJobs:jobs.length},{status:202});};export const config:Config={path:"/api/refresh-news",method:["POST"]};

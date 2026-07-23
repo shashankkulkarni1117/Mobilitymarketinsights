@@ -9,7 +9,7 @@
    - Functions directory: `netlify/functions`
 6. Keep these environment variables:
    - `REFRESH_TOKEN`
-   - `NEWS_API_KEY`
+   - ``
 7. Deploy.
 
 Test:

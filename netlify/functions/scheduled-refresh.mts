@@ -1,14 +1,2 @@
-
 import type { Config, Context } from "@netlify/functions";
-
-export default async (req: Request, _context: Context) => {
-  const crawlerUrl = new URL(
-    "/.netlify/functions/news-crawler-background",
-    req.url
-  );
-  await fetch(crawlerUrl, { method: "POST" });
-};
-
-export const config: Config = {
-  schedule: "0 2 * * *"
-};
+const REGIONS=["AFRICA","LATAM","ASIA","MENA","EUROPE","BRAZIL"];export default async(req:Request,_context:Context)=>{const day=new Date().getUTCDate();const region=REGIONS[(day-1)%REGIONS.length];const month=new Date().toISOString().slice(0,7);const u=new URL("/.netlify/functions/crawl-batch-background",req.url);u.searchParams.set("region",region);u.searchParams.set("month",month);await fetch(u,{method:"POST"});};export const config:Config={schedule:"0 2 * * *"};

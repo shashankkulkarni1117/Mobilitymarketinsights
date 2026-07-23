@@ -1,0 +1,10 @@
+import type { NewsRecord } from "./types.mts";
+function clean(v=""){return v.replace(/<script[\s\S]*?<\/script>/gi," ").replace(/<style[\s\S]*?<\/style>/gi," ").replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim();}
+function idFromUrl(url:string){return Buffer.from(url).toString("base64url").slice(0,48);}
+async function text(url:string){const r=await fetch(url,{headers:{"user-agent":"MarketMobilityInsights/3.1"}});if(!r.ok)throw new Error(String(r.status));return r.text();}
+function links(html:string,base:string){const out=new Set<string>();for(const m of html.matchAll(/<a[^>]+href=["']([^"'#]+)["']/gi)){try{out.add(new URL(m[1],base).toString())}catch{}}return[...out];}
+function meta(html:string){const title=(html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)/i)||[])[1]||(html.match(/<title>([\s\S]*?)<\/title>/i)||[])[1]||"";const desc=(html.match(/<meta[^>]+(?:name|property)=["'](?:description|og:description)["'][^>]+content=["']([^"']+)/i)||[])[1]||"";const date=(html.match(/<meta[^>]+(?:property|name)=["'](?:article:published_time|datePublished|date)["'][^>]+content=["']([^"']+)/i)||[])[1]||"";return{title:clean(title),desc:clean(desc),date};}
+export async function crawlSource(source:any,month:string):Promise<NewsRecord[]>{
+ const starts=[...(source.startUrls||[]),source.baseUrl].filter(Boolean);const candidates=new Set<string>();for(const s of starts){try{const h=await text(s);for(const u of links(h,s)){const host=new URL(u).hostname.replace(/^www\./,"");if((source.domains||[]).some((d:string)=>host===d||host.endsWith("."+d)))candidates.add(u)}}catch{}}
+ const out:NewsRecord[]=[];for(const u of [...candidates].slice(0,40)){try{const h=await text(u);const a=meta(h);const d=a.date?new Date(a.date).toISOString().slice(0,10):"";if(!d.startsWith(month)||!a.title)continue;out.push({id:idFromUrl(u),country:source.country,region:source.region,month,date:d,category:"competition",title:a.title,text:a.desc||a.title,source:source.name,url:u,confidence:70,approved:false,fetchedAt:new Date().toISOString()})}catch{}}return out;
+}

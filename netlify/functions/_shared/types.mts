@@ -24,5 +24,7 @@ export interface NewsRecord {
   displacementCc?: number;
   confidence?: number;
   approved: boolean;
+  exactArticleUrl?: boolean;
+  originalTitle?: string;
   fetchedAt?: string;
 }

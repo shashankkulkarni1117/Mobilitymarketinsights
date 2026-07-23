@@ -1,6 +1,6 @@
 {
-  "name": "market-mobility-insights-may-june-data-fix",
-  "version": "3.4.0",
+  "name": "market-mobility-insights-exact-links",
+  "version": "3.5.0",
   "private": true,
   "type": "module",
   "engines": {

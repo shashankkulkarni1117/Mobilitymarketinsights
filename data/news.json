@@ -13,7 +13,10 @@
     "oem": "Malaguti",
     "eventType": "Market entry / product launch",
     "vehicleType": "ICE motorcycle",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Malaguti enters Argentina with five models",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ar-jun-market",
@@ -27,7 +30,10 @@
     "url": "https://www.motorcyclesdata.com/2026/06/15/argentine-motorcycles-market/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ar-2026-06-price-ranking",
@@ -42,7 +48,10 @@
     "url": "https://www.lanacion.com.ar/autos/estas-son-las-motos-0km-mas-baratas-en-junio-de-2026-se-consiguen-todas-por-menos-de-3-millones-nid19062026/",
     "eventType": "Price comparison",
     "vehicleType": "ICE motorcycles ≤150cc",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Argentina's lowest-priced motorcycles in June",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ar-2026-06-low-cc-sales",
@@ -57,7 +66,10 @@
     "url": "https://www.lanacion.com.ar/autos/las-motos-que-mas-se-venden-en-argentina-y-por-que-los-repartidores-las-eligen-nid30062026/",
     "eventType": "Sales performance",
     "vehicleType": "ICE motorcycles ≤150cc",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Low-displacement motorcycles dominate Argentina",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ar-2026-07-market-growth",
@@ -72,7 +84,10 @@
     "url": "https://www.lanacion.com.ar/autos/las-motos-ganadoras-cada-vez-se-venden-mas-porque-generan-bajos-costos-y-eluden-mas-facil-el-nid10072026/",
     "eventType": "Sales performance",
     "vehicleType": "ICE motorcycles",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Argentina motorcycle market sustains rapid growth",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ar-2026-07-june-sales",
@@ -87,7 +102,10 @@
     "url": "https://www.lanacion.com.ar/autos/cuales-son-las-motos-mas-vendidas-en-la-argentina-en-junio-2026-nid21072026/",
     "eventType": "Sales performance",
     "vehicleType": "ICE motorcycles",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Argentina June motorcycle sales ranking",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "bd-jun-cfmoto-test",
@@ -98,10 +116,13 @@
     "category": "social",
     "text": "SpeedUp Moto hosted a CFMOTO test-ride event in Uttara with product experts and customer engagement activities.",
     "source": "BikeBD",
-    "url": "https://www.bikebd.com/blog/category/news?page=2",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "bd-jul-hero-monsoon",
@@ -112,10 +133,13 @@
     "category": "social",
     "text": "Hero Bangladesh launched a monsoon retail campaign with cashback of up to BDT15,000 on selected motorcycles.",
     "source": "BikeBD",
-    "url": "https://www.bikebd.com/blog/maincategory/bikes",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "bd-jul-revoo-offer",
@@ -126,10 +150,13 @@
     "category": "ev",
     "text": "REVOO Bangladesh rolled out its Rimjhim Cashback Offer with discounts of up to BDT9,000 on selected electric models.",
     "source": "BikeBD",
-    "url": "https://www.bikebd.com/blog/category/motorcycle-company-offers-in-bangladesh",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "bd-2026-07-hero-four-models",
@@ -145,7 +172,10 @@
     "oem": "Hero",
     "eventType": "Product launch",
     "vehicleType": "ICE motorcycles ≤150cc",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Hero launches four motorcycles in Bangladesh",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "bd-jul-yadea-cashback",
@@ -156,10 +186,13 @@
     "category": "ev",
     "text": "YADEA introduced cashback offers on the GT12 and GT25 electric two-wheelers in Bangladesh.",
     "source": "BikeBD",
-    "url": "https://www.bikebd.com/blog/category/news",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "bd-2026-07-350cc-policy",
@@ -174,7 +207,10 @@
     "url": "https://www.bikebd.com/blog/motorcycle-industries-of-350cc",
     "eventType": "Engine-capacity regulation",
     "vehicleType": "ICE motorcycles",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Bangladesh approves motorcycles up to 350cc",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "co-2026-06-tvs-f2r-launches",
@@ -186,13 +222,16 @@
     "text": "TVS announced three new motorcycles at F2R 2026 in 160cc, 200cc and 300cc classes, directly expanding its Bajaj-relevant portfolio in Colombia.",
     "title": "TVS announced three launches at F2R 2026",
     "source": "Publimotos",
-    "url": "https://publimotos.com/category/actualidad/nacional/page/114/",
+    "url": "",
     "oem": "TVS",
     "model": "160/200/300cc range",
     "eventType": "Product launch",
     "vehicleType": "ICE motorcycle",
     "displacementCc": 300,
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "TVS announced three launches at F2R 2026",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "co-2026-06-victory-bet-adv180",
@@ -204,13 +243,16 @@
     "text": "Victory introduced the BET ADV 180 in Colombia during F2R 2026, adding a new 180cc competitor in the urban-adventure segment.",
     "title": "Victory BET ADV 180 introduced in Colombia",
     "source": "Publimotos",
-    "url": "https://publimotos.com/category/lanzamientos/",
+    "url": "",
     "oem": "Victory",
     "model": "BET ADV 180",
     "eventType": "Product launch",
     "vehicleType": "ICE motorcycle",
     "displacementCc": 180,
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Victory BET ADV 180 introduced in Colombia",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "co-2026-06-suzuki-gn160-launch",
@@ -222,13 +264,16 @@
     "text": "Suzuki officially launched the new GN 160 in Colombia, strengthening competition in the commuter motorcycle segment below 200cc.",
     "title": "Suzuki launched the new GN 160 in Colombia",
     "source": "Publimotos",
-    "url": "https://publimotos.com/category/actualidad/nacional/",
+    "url": "",
     "oem": "Suzuki",
     "model": "GN 160",
     "eventType": "Product launch",
     "vehicleType": "ICE motorcycle",
     "displacementCc": 160,
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Suzuki launched the new GN 160 in Colombia",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "co-jun-market",
@@ -242,7 +287,10 @@
     "url": "https://www.motorcyclesdata.com/2026/06/23/colombian-motorcycles/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "co-2026-07-kawasaki-klx230",
@@ -254,13 +302,16 @@
     "text": "Kawasaki launched new KLX 230 variants in Colombia, increasing competition in the dual-purpose motorcycle segment.",
     "title": "Kawasaki launched new KLX 230 variants",
     "source": "Publimotos",
-    "url": "https://publimotos.com/category/lanzamientos/page/35/",
+    "url": "",
     "oem": "Kawasaki",
     "model": "KLX 230",
     "eventType": "Product launch",
     "vehicleType": "ICE motorcycle",
     "displacementCc": 230,
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Kawasaki launched new KLX 230 variants",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "co-2026-07-suzuki-soat-campaign",
@@ -272,11 +323,14 @@
     "text": "Suzuki offered free SOAT on seven motorcycle models in Colombia as a July retail promotion.",
     "title": "Suzuki free-SOAT promotion in Colombia",
     "source": "Publimotos",
-    "url": "https://publimotos.com/category/actualidad/",
+    "url": "",
     "oem": "Suzuki",
     "eventType": "Product promotion",
     "vehicleType": "ICE motorcycle",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Suzuki free-SOAT promotion in Colombia",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "id-jun-market",
@@ -290,7 +344,10 @@
     "url": "https://www.motorcyclesdata.com/2026/06/16/indonesia-motorcycles/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "id-jun-incentive-delay",
@@ -304,7 +361,10 @@
     "url": "https://en.antaranews.com/news/420065/indonesia-delays-electric-motorcycle-incentive-launch-until-next-month",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "id-jul-national-ev",
@@ -318,7 +378,10 @@
     "url": "https://en.antaranews.com/news/423103/prabowo-says-indonesia-to-launch-national-electric-motorcycle",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "my-may-ktm390",
@@ -332,7 +395,10 @@
     "url": "https://paultan.org/2026/05/11/2026-ktm-390-adventure-range-launched-in-malaysia-pricing-starts-at-rm27300-up-to-rm33300/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "my-jun-ezi-ray01",
@@ -346,7 +412,10 @@
     "url": "https://paultan.org/2026/04/27/2026-ezi-ray-01-e-scooter-malaysia-launch-rm2288/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "my-jul-modenas-care",
@@ -357,10 +426,13 @@
     "category": "social",
     "text": "MODENAS launched a nationwide care programme offering inspections and after-sales support through authorized dealers.",
     "source": "iMotorbike Malaysia",
-    "url": "https://news.imotorbike.com/en/",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "my-jul-modenas",
@@ -371,10 +443,13 @@
     "category": "social",
     "text": "MODENAS launched a nationwide Z15GT Care Programme with free inspections and technical support.",
     "source": "Zigwheels Malaysia",
-    "url": "https://www.zigwheels.my/latest-motorcycles",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "my-jul-wmoto-griffin205",
@@ -385,10 +460,13 @@
     "category": "competition",
     "text": "WMoto launched the Griffin 205 in Malaysia at RM8,888, adding a new sub-250cc geared ICE motorcycle competitor.",
     "source": "Zigwheels Malaysia",
-    "url": "https://www.zigwheels.my/motorcycle-news",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "my-jul-wmoto",
@@ -399,10 +477,13 @@
     "category": "competition",
     "text": "WMoto launched the Griffin 205 in Malaysia at RM8,888, adding a new sub-250cc geared ICE competitor.",
     "source": "Zigwheels Malaysia",
-    "url": "https://www.zigwheels.my/news",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "mx-may-italika",
@@ -416,7 +497,10 @@
     "url": "https://www.italika.mx/MundoITK/hot-sale-2026-la-oportunidad-perfecta-para-estrenar-tu-proxima-italika",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "mx-may-emissions",
@@ -430,7 +514,10 @@
     "url": "https://www.gob.mx/semarnat/prensa/semarnat-somete-a-consulta-publica-proyecto-de-norma-ambiental-para-motocicletas-nuevas?idiom=es",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "mx-2026-06-simm-social",
@@ -445,7 +532,10 @@
     "url": "https://www.motofichas.com.mx/noticias/6595-simm-2026-fechas",
     "eventType": "Motor show / test rides",
     "vehicleType": "Motorcycles",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "SIMM 2026 dates announced",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "mx-2026-06-re-model-update",
@@ -457,11 +547,14 @@
     "text": "Royal Enfield introduced new colour and styling updates across motorcycles sold in Mexico, expanding the appeal of its sub-400cc portfolio.",
     "title": "Royal Enfield updates models sold in Mexico",
     "source": "Motofichas México",
-    "url": "https://www.motofichas.com.mx/informacion-y-reportajes",
+    "url": "",
     "oem": "Royal Enfield",
     "eventType": "Model update",
     "vehicleType": "ICE motorcycles ≤400cc",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Royal Enfield updates models sold in Mexico",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "mx-jun-fathersday",
@@ -475,7 +568,10 @@
     "url": "https://www.italika.mx/MundoITK/descubre-las-mejores-motocicletas-italika-para-sorprender-a-papa",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "mx-jun-yadea",
@@ -489,7 +585,10 @@
     "url": "https://www.motorcyclesdata.com/2026/06/23/mexico-motorcycles/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "mx-jul-registration",
@@ -503,7 +602,10 @@
     "url": "https://noticiasc21.cdmx.gob.mx/noticia/regulacion-de-vehiculos-electricos-de-baja-velocidad",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "np-jun-xpulse210",
@@ -514,10 +616,13 @@
     "category": "competition",
     "text": "Hero launched the Xpulse 210 in Nepal at NPR599,000, adding a 210cc adventure motorcycle competitor.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/hero-xpulse-210-officially-launched-in-nepal-at-rs-5-99-lakh",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "np-jun-cfmoto-tax",
@@ -528,10 +633,13 @@
     "category": "social",
     "text": "CFMOTO Nepal announced a two-year tax-free offer on the 250 DUAL EFI motorcycle.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/cfmoto-nepal-announces-2-year-tax-free-offer-on-250-dual-efi",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "np-jun-transport-bill",
@@ -542,10 +650,13 @@
     "category": "policy",
     "text": "A proposed transport bill in Nepal outlined higher traffic penalties, including fines of up to NPR50,000.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/local-news",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "np-jun-apache160",
@@ -556,10 +667,13 @@
     "category": "competition",
     "text": "TVS launched the updated Apache RTR 160 4V in Nepal with USD forks, TFT display, ride modes and dual-channel ABS.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/tvs-launches-new-apache-rtr-160-4v-in-nepal-at-rs-4-29-lakh",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "np-jun-ktm-showroom",
@@ -570,10 +684,13 @@
     "category": "social",
     "text": "KTM and Triumph opened a new 3S showroom in Lalitpur, expanding sales and after-sales coverage.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/triumph-and-ktm-open-new-multi-brand-showroom-in-lalitpur",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "np-jul-xsr155",
@@ -584,10 +701,13 @@
     "category": "competition",
     "text": "Yamaha Nepal teased the XSR155, signalling an imminent launch of the 155cc neo-retro motorcycle.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/yamaha-xsr-155-teased-for-nepal-launch-expected-soon",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "np-jul-flygon220",
@@ -598,10 +718,13 @@
     "category": "competition",
     "text": "Crossfire introduced the LETBE Flygon 220 in Nepal in City and Hills variants.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/crossfire-launches-letbe-flygon-220-in-nepal-with-two-variants",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "np-jul-licence-digital",
@@ -612,10 +735,13 @@
     "category": "policy",
     "text": "Nepal moved driving-licence applications, renewals and payments online, digitising vehicle-registration services.",
     "source": "Nepal Drives",
-    "url": "https://www.nepaldrives.com/",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "pe-may-market",
@@ -629,7 +755,10 @@
     "url": "https://www.motorcyclesdata.com/2026/05/25/peruvian-motorcycles/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ph-may-honda",
@@ -640,10 +769,13 @@
     "category": "competition",
     "text": "Honda Philippines reported cumulative sales of 12 million motorcycles, reinforcing its scale in commuter and performance motorcycle segments.",
     "source": "Zigwheels Philippines",
-    "url": "https://www.zigwheels.ph/motorcycle-news/tag/honda",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ph-may-vinfast",
@@ -654,10 +786,13 @@
     "category": "ev",
     "text": "VinFast confirmed entry into the Philippine electric two-wheeler market with three models, creating a new Chetak-relevant competitor set.",
     "source": "Zigwheels Philippines",
-    "url": "https://www.zigwheels.ph/motorcycle-news/tag/motorcycle-news",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ph-jun-vinfast",
@@ -671,7 +806,10 @@
     "url": "https://vinfastauto.us/investor-relations/news/vinfast-launches-early-booking-program-for-battery-swapping-e-motorcycles",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ph-jun-suzuki160",
@@ -682,10 +820,13 @@
     "category": "competition",
     "text": "Suzuki Philippines showcased the new V-STROM 160 and DR160. Both are 162cc geared ICE motorcycles competing in Bajaj's sub-200cc space.",
     "source": "Suzuki Motorcycles Philippines",
-    "url": "https://mc.suzuki.com.ph/suzuki-supercharged-proves-real-adventure-dna-of-the-new-v-strom-160-and-dr160/",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ph-jun-honda",
@@ -699,7 +840,10 @@
     "url": "https://www.hondaph.com/motorcycle/promotions/arangkada-sa-tag-ulan",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ph-2026-06-yamaha-service",
@@ -711,11 +855,14 @@
     "text": "Yamaha Motor Philippines launched the Shift to Performance campaign to strengthen dealer service-centre capability and customer support.",
     "title": "Yamaha strengthens service centres",
     "source": "Zigwheels Philippines",
-    "url": "https://www.zigwheels.ph/motorcycle-news/tag/news",
+    "url": "",
     "oem": "Yamaha",
     "eventType": "After-sales initiative",
     "vehicleType": "Motorcycle portfolio",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Yamaha strengthens service centres",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ph-jun-vigan",
@@ -726,10 +873,13 @@
     "category": "policy",
     "text": "Vigan City announced an EV ordinance covering e-bikes, e-scooters, e-trikes and e-motorcycles, with age, roadworthiness and safety requirements effective from 1 July.",
     "source": "Philippine News Agency",
-    "url": "https://www.pna.gov.ph/articles/1277987",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ph-jul-egov",
@@ -740,10 +890,13 @@
     "category": "policy",
     "text": "The MMDA and DICT integrated the No-Contact Apprehension Policy into the eGovPH app, enabling motorists to view violations and pay fines online.",
     "source": "Philippine News Agency",
-    "url": "https://www.pna.gov.ph/articles/1279086",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ph-jul-honda",
@@ -757,7 +910,10 @@
     "url": "https://www.hondaph.com/motorcycle/promotions/winner-x-prime-rainy-deals",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ph-2026-07-yamaha-dealer-cup",
@@ -769,11 +925,14 @@
     "text": "Yamaha Motor Philippines added a Dealer Cup and Aerox SP R&D Sprint Cup to its returning Grand Prix series, expanding dealer and rider-community engagement.",
     "title": "Yamaha adds Dealer Cup to Grand Prix series",
     "source": "Zigwheels Philippines",
-    "url": "https://www.zigwheels.ph/motorcycle-news",
+    "url": "",
     "oem": "Yamaha",
     "eventType": "Dealer activity / rider community",
     "vehicleType": "Motorcycle portfolio",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Yamaha adds Dealer Cup to Grand Prix series",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ph-jul-lto-orcr",
@@ -784,10 +943,13 @@
     "category": "policy",
     "text": "The LTO issued show-cause orders to major motorcycle dealers over delayed OR/CR processing, signalling tighter registration-compliance enforcement.",
     "source": "MotoPinas",
-    "url": "https://www.motopinas.com/motorcycle-news/",
+    "url": "",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "vn-jun-market",
@@ -801,7 +963,10 @@
     "url": "https://www.motorcyclesdata.com/2026/06/16/vietnam-motorcycles/",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "vn-jun-honda-charging",
@@ -815,7 +980,10 @@
     "url": "https://global.honda/en/newsroom/news/2026/c260109deng.html?from=latest_area",
     "oem": "",
     "eventType": "",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "ao-2026-06-market",
@@ -829,7 +997,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/06/18/angola-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Angola motorcycle market surpasses 100,000 registrations",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "cd-2026-06-market",
@@ -843,7 +1014,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/06/24/dr-congo-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "DR Congo motorcycle market reaches record level",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "tz-2026-06-market",
@@ -857,7 +1031,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/06/22/tanzania-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Tanzania motorcycle market slows after rapid expansion",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "gh-2026-06-market",
@@ -871,7 +1048,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/06/08/ghana-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Ghana motorcycle market expands rapidly",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "lr-2026-06-market",
@@ -883,9 +1063,12 @@
     "text": "Liberia's motorcycle market reached a new sales record in 2025, with Bajaj leading the market.",
     "title": "Liberia motorcycle market reaches new record",
     "source": "MotorCyclesData",
-    "url": "https://www.motorcyclesdata.com/category/middle-east-africa-market/",
+    "url": "",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Liberia motorcycle market reaches new record",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "ci-2026-06-market",
@@ -897,9 +1080,12 @@
     "text": "Côte d'Ivoire's motorcycle market continued expanding, with registrations rising strongly over the past five years.",
     "title": "Côte d'Ivoire motorcycle market expands rapidly",
     "source": "MotorCyclesData",
-    "url": "https://www.motorcyclesdata.com/category/middle-east-africa-market/",
+    "url": "",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Côte d'Ivoire motorcycle market expands rapidly",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "sl-2026-06-market",
@@ -911,9 +1097,12 @@
     "text": "Sierra Leone's motorcycle market reached a record 39,708 units in 2025.",
     "title": "Sierra Leone motorcycle market reaches record level",
     "source": "MotorCyclesData",
-    "url": "https://www.motorcyclesdata.com/category/middle-east-africa-market/",
+    "url": "",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": false,
+    "originalTitle": "Sierra Leone motorcycle market reaches record level",
+    "linkStatus": "Exact article URL not available"
   },
   {
     "id": "es-2026-06-market",
@@ -927,7 +1116,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/06/14/spanish-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Spain motorcycle market grows 22.1% YTD May",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "es-2026-07-market",
@@ -941,7 +1133,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/07/13/spanish-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Spain first-half motorcycle sales rise 17.2%",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "it-2026-06-market",
@@ -955,7 +1150,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/06/14/italian-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Italy motorcycle market grows in early 2026",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "it-2026-07-market",
@@ -969,7 +1167,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/07/13/italian-motorcycles/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Italy first-half motorcycle market rises 10.1%",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "br-2026-06-market",
@@ -983,7 +1184,10 @@
     "source": "MotorCyclesData",
     "url": "https://www.motorcyclesdata.com/2026/06/15/brazilian-motorcycles-market/",
     "eventType": "Sales performance",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Brazil motorcycle market grows 14.3% YTD May",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "br-2026-06-policy",
@@ -997,7 +1201,10 @@
     "source": "CAIXA",
     "url": "https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2026/06-JUNHO/CAIXA-passa-operar-o-Move-Brasil-%E2%80%93-Entregadores-e-Motoapp-no-dia-13-de-julho.aspx",
     "eventType": "Government incentive",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Brazil launches subsidised motorcycle financing",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "br-2026-07-policy",
@@ -1011,7 +1218,10 @@
     "source": "Brazil Ministry of Development",
     "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/julho/inicio-do-financiamento-do-move-brasil-2013-entregadores-e-motoapps-e-alterado-para-27-de-julho",
     "eventType": "Government incentive",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Move Brasil motorcycle financing shifted to 27 July",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "br-2026-06-social",
@@ -1025,7 +1235,10 @@
     "source": "Honda Brazil",
     "url": "https://saladeimprensa.honda.com.br/releases/honda-lanca-campanha-com-xand-aviao-para-celebrar-o-sao-joao-e-paixao-nacional-por",
     "eventType": "Brand campaign",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Honda launches São João motorcycle campaign",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "iq-2026-07-policy",
@@ -1039,7 +1252,10 @@
     "source": "Iraq Business News",
     "url": "https://www.iraq-businessnews.com/2026/07/06/iraq-reviews-policy-on-motorcycle-imports/",
     "eventType": "Import policy",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Iraq reviews motorcycle import policy",
+    "linkStatus": "Exact article URL"
   },
   {
     "id": "kw-2026-06-policy",
@@ -1053,6 +1269,9 @@
     "source": "Gulf News",
     "url": "https://gulfnews.com/world/gulf/kuwait/kuwait-bans-delivery-bikes-during-peak-summer-heat-hours-1.500559094",
     "eventType": "Road transport rule",
-    "approved": true
+    "approved": true,
+    "exactArticleUrl": true,
+    "originalTitle": "Kuwait bans delivery motorcycles during peak heat",
+    "linkStatus": "Exact article URL"
   }
 ]
